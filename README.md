@@ -6,7 +6,7 @@
 
 ## What this program does
 
-This program allows the user to view a number of different portfolios and use higher end numerical and graphical analysis to determine variance, covariance, beta, and Sharpe Ratios in order to determine which funds allow for the the best diversification of a portfolio. Specifically in this analysis we will be computing the daily returns of Soros Fund Management LLC, Paulson & Co Inc, Tiger Global Management LLC and Berkshire Hathaway Inc. We will compare these four funds to the market (S&P 500) to determine which has the best risk-reward profile for adding to a portfolio.
+This program allows the user to view a number of different portfolios and use higher end numerical and graphical analysis to determine daily returns, standard deviations, variance, covariance, beta, rolling window metrics and Sharpe Ratios in order to determine which funds allow for the the best diversification of a portfolio. Specifically in this analysis we will be computing the daily returns of Soros Fund Management LLC, Paulson & Co Inc, Tiger Global Management LLC and Berkshire Hathaway Inc. We will compare these four funds to the market (S&P 500) to determine their performance, volatility, and risk-reward profile for diversifying a portfolio.
 
 ---
 
